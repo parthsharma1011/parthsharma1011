@@ -36,7 +36,7 @@ class ParthSharma:
         self.role = "Data Scientist & AI Educator"
         self.experience = "8+ years"
         self.platform = "Beard and Binary"
-        self.location = "Berlin, Germany 🇩🇪"
+        self.location = "All over the World 🌍"
         self.origin = "India 🇮🇳"
         
     def get_expertise(self):
@@ -63,22 +63,6 @@ class ParthSharma:
 parth = ParthSharma()
 print(parth.get_expertise())
 ```
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthsharma1011&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsharma1011&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma1011&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff" alt="Top Languages" />
-</p>
 
 ---
 
@@ -123,78 +107,12 @@ print(parth.get_expertise())
 
 <h2 align="center">💭 About Me</h2>
 
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🧔 Beard and Binary - Where AI meets Education             ║
-║                                                              ║
-║  📍 Based in Berlin | 🇮🇳 Born in India                     ║
-║  🎓 8+ Years in Data Science                                ║
-║  👨‍🏫 Teaching AI/ML to aspiring data scientists             ║
-║  🥊 Kickboxing enthusiast                                   ║
-║  ☕ Powered by coffee and curiosity                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-- 🔭 Currently building **AI-powered educational platforms**
+- 🔭 Building **AI-powered educational platforms**
 - 🌱 Exploring **cutting-edge AI frameworks and distributed training**
-- 👨‍💼 Teaching **practical AI/ML** through real-world projects
-- 🥊 Training hard, coding harder
-- ☕ Always up for coffee and AI discussions
-- 💬 Ask me about **Kickboxing, Music, AI, and Coffee**
-- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/parthsharma1011/)
-- 🎥 Subscribe to [Beard and Binary](https://www.youtube.com/@beardandbinary) for AI tutorials
-
----
-
-<h2 align="center">🎯 What I Do</h2>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🧠 Data Science
-- Machine Learning Engineering
-- Deep Learning & Neural Networks
-- Distributed Training (DDP, Horovod)
-- Production ML Systems
-
-</td>
-<td width="50%">
-
-### 👨‍🏫 Education
-- AI/ML Course Creation
-- Practical Coding Tutorials
-- Career Mentorship
-- YouTube Content Creation
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <em><b>I love connecting with fellow AI enthusiasts and learners!</b></em>
-  <br/>
-  <em>If you want to discuss AI, data science, or just grab a virtual coffee, feel free to reach out! ☕</em>
-</div>
-
----
-
-<div align="center">
-
-### 📺 Latest from Beard and Binary
-
-[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@beardandbinary)
-
-*Practical AI tutorials | Real-world projects | Career guidance*
-
-</div>
+- 👨💼 Teaching **practical AI/ML** through real-world projects
+- 🥊 Kickboxing enthusiast | ☕ Coffee lover
+- 💬 Ask me about **AI, Data Science, Kickboxing, and Coffee**
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/parthsharma1011/) | [YouTube](https://www.youtube.com/@beardandbinary)
 
 ---
 
