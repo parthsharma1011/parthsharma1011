@@ -70,10 +70,28 @@ print(parth.get_expertise())
 
 <div align="center">
 
-| 🎧 Podcast | 📺 Watch Here |
-|:---:|:---:|
-| **Data Science & AI Insights** | [<img src="https://img.shields.io/badge/Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=Mf0Mxydspf4&t=3142s) |
-| **Tech Talk & Career Guidance** | [<img src="https://img.shields.io/badge/Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=XixF0HCkTYM&t=207s) |
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Data Science & AI Insights**
+
+<a href="https://www.youtube.com/watch?v=Mf0Mxydspf4&t=3142s" target="_blank">
+  <img src="https://img.youtube.com/vi/Mf0Mxydspf4/maxresdefault.jpg" width="300" alt="Data Science & AI Insights">
+</a>
+
+</td>
+<td align="center" width="50%">
+
+**Tech Talk & Career Guidance**
+
+<a href="https://www.youtube.com/watch?v=XixF0HCkTYM&t=207s" target="_blank">
+  <img src="https://img.youtube.com/vi/XixF0HCkTYM/maxresdefault.jpg" width="300" alt="Tech Talk & Career Guidance">
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
