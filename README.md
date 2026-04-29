@@ -33,8 +33,8 @@ class ParthSharma:
         self.role = "Data Scientist & AI Educator"
         self.experience = "8+ years"
         self.platform = "Beard and Binary"
-        self.location = "All over the World 🌍"
-        self.origin = "India 🇮🇳"
+        self.location = "Berlin, Germany 🇩🇪"
+        self.origin = "Bengaluru, India 🇮🇳"
         
     def get_expertise(self):
         return {
