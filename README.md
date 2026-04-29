@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7DD474&center=true&vCenter=true&width=940&lines=Namaste+%F0%9F%99%8F+I'm+Parth+Sharma" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎯 Data Scientist | AI Educator | Beard and Binary Creator 🇮🇳</h3>
+<h3 align="center">🎯 Data Scientist | AI Educator | Content Creator 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parthsharma1011&label=Profile%20views&color=0e75b6&style=flat" alt="parthsharma1011" />
